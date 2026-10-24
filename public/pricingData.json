@@ -1,0 +1,62 @@
+[
+    {
+        "id": 1,
+        "name": "Basic Explorer",
+        "price": 499,
+        "currency": "USD",
+        "description": "Perfect for travelers looking for an affordable and comfortable trip.",
+        "duration": "3 Days / 2 Nights",
+        "features": [
+            "Hotel accommodation",
+            "Daily breakfast",
+            "Airport pickup and drop-off",
+            "Local sightseeing tour",
+            "24/7 customer support",
+            "Free travel consultation"
+        ],
+        "popular": false,
+        "buttonText": "Choose Plan"
+    },
+    {
+        "id": 2,
+        "name": "Adventure Plus",
+        "price": 999,
+        "currency": "USD",
+        "description": "An ideal package for travelers who want comfort, adventure, and memorable experiences.",
+        "duration": "5 Days / 4 Nights",
+        "features": [
+            "Premium hotel accommodation",
+            "Daily breakfast and dinner",
+            "Airport pickup and drop-off",
+            "Guided sightseeing tours",
+            "Adventure activities",
+            "Travel insurance assistance",
+            "Private transportation",
+            "24/7 priority support"
+        ],
+        "popular": true,
+        "buttonText": "Choose Plan"
+    },
+    {
+        "id": 3,
+        "name": "Luxury Voyager",
+        "price": 1999,
+        "currency": "USD",
+        "description": "Enjoy a premium travel experience with personalized service and exclusive benefits.",
+        "duration": "7 Days / 6 Nights",
+        "features": [
+            "5-star hotel accommodation",
+            "All-inclusive meals",
+            "Private airport transfers",
+            "Personal tour guide",
+            "Exclusive sightseeing experiences",
+            "Premium transportation",
+            "Travel insurance assistance",
+            "Flexible travel itinerary",
+            "VIP customer support",
+            "Complimentary travel photography"
+        ],
+        "popular": false,
+        "buttonText": "Choose Plan"
+    }
+]

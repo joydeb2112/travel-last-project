@@ -1,0 +1,122 @@
+[
+    {
+        "id": 1,
+        "name": "Cox's Bazar Beach",
+        "img": "https://i.ibb.co.com/SwKBqcfd/loc-1.webp",
+        "price": 150,
+        "currency": "USD",
+        "location": "Cox's Bazar, Bangladesh",
+        "information": "Enjoy the world's famous long sandy beach, beautiful sunsets, fresh seafood, and relaxing seaside activities.",
+        "duration": "3 Days / 2 Nights"
+    },
+    {
+        "id": 2,
+        "name": "Sajek Valley",
+        "img": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b",
+        "price": 120,
+        "currency": "USD",
+        "location": "Rangamati, Bangladesh",
+        "information": "Explore stunning mountain scenery, floating clouds, green hills, and peaceful nature views.",
+        "duration": "2 Days / 1 Night"
+    },
+    {
+        "id": 3,
+        "name": "Sundarbans",
+        "img": "https://images.unsplash.com/photo-1448375240586-882707db888b",
+        "price": 180,
+        "currency": "USD",
+        "location": "Khulna, Bangladesh",
+        "information": "Discover the world's largest mangrove forest, river cruises, rich wildlife, and unique natural landscapes.",
+        "duration": "3 Days / 2 Nights"
+    },
+    {
+        "id": 4,
+        "name": "Saint Martin's Island",
+        "img": "https://images.unsplash.com/photo-1510414842594-a61c69b5ae57",
+        "price": 200,
+        "currency": "USD",
+        "location": "Bay of Bengal, Bangladesh",
+        "information": "Relax on a tropical island with clear blue water, coral scenery, fresh seafood, and beautiful beaches.",
+        "duration": "3 Days / 2 Nights"
+    },
+    {
+        "id": 5,
+        "name": "Bali Island",
+        "img": "https://images.unsplash.com/photo-1537996194471-e657df975ab4",
+        "price": 650,
+        "currency": "USD",
+        "location": "Bali, Indonesia",
+        "information": "Experience tropical beaches, lush rice terraces, ancient temples, waterfalls, and vibrant local culture.",
+        "duration": "5 Days / 4 Nights"
+    },
+    {
+        "id": 6,
+        "name": "Eiffel Tower",
+        "img": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f",
+        "price": 1200,
+        "currency": "USD",
+        "location": "Paris, France",
+        "information": "Discover romantic city streets, iconic landmarks, art museums, French cuisine, and breathtaking city views.",
+        "duration": "5 Days / 4 Nights"
+    },
+    {
+        "id": 6,
+        "name": "Eiffel Tower",
+        "img": "https://images.unsplash.com/photo-1511739001486-6bfe10ce785f",
+        "price": 1200,
+        "currency": "USD",
+        "location": "Paris, France",
+        "information": "Discover romantic city streets, iconic landmarks, art museums, French cuisine, and breathtaking city views.",
+        "duration": "5 Days / 4 Nights"
+    },
+    {
+        "id": 7,
+        "name": "Maldives",
+        "img": "https://images.unsplash.com/photo-1514282401047-d79a71a590e8",
+        "price": 1500,
+        "currency": "USD",
+        "location": "Maldives",
+        "information": "Enjoy turquoise lagoons, white sandy beaches, overwater villas, snorkeling, and unforgettable sunsets.",
+        "duration": "4 Days / 3 Nights"
+    },
+    {
+        "id": 8,
+        "name": "Swiss Alps",
+        "img": "https://images.unsplash.com/photo-1531366936337-7c912a4589a7",
+        "price": 1800,
+        "currency": "USD",
+        "location": "Switzerland",
+        "information": "Explore snow-capped mountains, alpine villages, scenic train rides, and beautiful mountain lakes.",
+        "duration": "6 Days / 5 Nights"
+    },
+    {
+        "id": 9,
+        "name": "Dubai",
+        "img": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c",
+        "price": 900,
+        "currency": "USD",
+        "location": "Dubai, United Arab Emirates",
+        "information": "Visit modern skyscrapers, luxury shopping malls, desert safari destinations, and world-famous attractions.",
+        "duration": "4 Days / 3 Nights"
+    },
+    {
+        "id": 10,
+        "name": "Mount Fuji",
+        "img": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65",
+        "price": 1400,
+        "currency": "USD",
+        "location": "Honshu, Japan",
+        "information": "Discover Japan's iconic mountain, peaceful lakes, traditional villages, and beautiful seasonal scenery.",
+        "duration": "5 Days / 4 Nights"
+    },
+    {
+        "id": 11,
+        "name": "Non Fuji",
+        "img": "https://images.unsplash.com/photo-1490806843957-31f4c9a91c65",
+        "price": 100,
+        "currency": "USD",
+        "location": "Honshu, Japan,Dhaka",
+        "information": "Discover Japan's iconic mountain, peaceful lakes, traditional villages, and beautiful seasonal scenery.",
+        "duration": "5 Days / 4 Nights"
+    }
+]
